@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body,html{
+  overflow-x: hidden;
+  padding: 0%;
+  margin: 0;
+}
+.roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  .roboto-light-2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 450;
+    font-style: normal;
+  }
+
+  .roboto-thin {
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .roboto-extra-light {
+    font-family: "Roboto", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  .roboto-medium {
+    font-family: "Roboto", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+body{
+  overflow-x: hidden;
+}
