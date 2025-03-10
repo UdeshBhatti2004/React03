@@ -8,7 +8,7 @@ function Finance() {
         <div className="image flex justify-center"> 
           <img
             src="/images/homeServiceimg.jpg"
-            className="h-[50vh] sm:h-[60vh] lg:h-[100vh] w-full object-cover mt-5" 
+            className="h-[42vh] sm:h-[60vh] lg:h-[100vh] w-full object-cover mt-5" 
             alt="Home Service"
           />
         </div>
