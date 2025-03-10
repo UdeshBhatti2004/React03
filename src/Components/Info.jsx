@@ -6,7 +6,7 @@ function Info() {
       <div className="icons grid grid-cols-1 sm:grid-cols-2 gap-x-12 gap-y-10 mt-10">
         <div className="icon1 bg-white flex flex-col items-center p-4 ">
           <div className="icon-img w-24 h-24 flex-shrink-0">
-            <img src="public/images/economy 1.png" alt="Economy" className="w-full h-full object-contain" />
+            <img src="/images/economy 1.png" alt="Economy" className="w-full h-full object-contain" />
           </div>
           <p className="text-center max-w-full sm:max-w-md text-base sm:text-xl roboto-thin tracking-wider mt-4">
             Embark on your loan journey, understanding the right loan type – personal for flexibility or business for
@@ -16,7 +16,7 @@ function Info() {
 
         <div className="icon2 bg-white flex flex-col items-center p-4">
           <div className="icon-img w-24 h-24 flex-shrink-0">
-            <img src="public/images/invesment 1.png" alt="Investment" className="w-full h-full object-contain" />
+            <img src="/images/invesment 1.png" alt="Investment" className="w-full h-full object-contain" />
           </div>
           <p className="text-center max-w-full sm:max-w-md text-base sm:text-xl roboto-thin tracking-wider mt-4">
             Unlock major investment potential with loans as a financial powerhouse, elevating your financial aspirations.
@@ -26,7 +26,7 @@ function Info() {
 
         <div className="icon3 bg-white flex flex-col items-center p-4 ">
           <div className="icon-img w-24 h-24 flex-shrink-0">
-            <img src="public/images/agreement 1.png" alt="Agreement" className="w-full h-full object-contain" />
+            <img src="/images/agreement 1.png" alt="Agreement" className="w-full h-full object-contain" />
           </div>
           <p className="text-center max-w-full sm:max-w-md text-base sm:text-xl roboto-thin tracking-wider mt-4">
             Businesses often seek loans for expansion, whether opening new locations, boosting production, or diversifying
@@ -36,7 +36,7 @@ function Info() {
 
         <div className="icon4 bg-white flex flex-col items-center p-4">
           <div className="icon-img w-24 h-24 flex-shrink-0">
-            <img src="public/images/continuous 1.png" alt="Continuous" className="w-full h-full object-contain" />
+            <img src="/images/continuous 1.png" alt="Continuous" className="w-full h-full object-contain" />
           </div>
           <p className="text-center max-w-full sm:max-w-md text-base sm:text-xl roboto-thin tracking-wider mt-4">
             In today's dynamic financial landscape, gain essential insights for managing money, investments, and securing
